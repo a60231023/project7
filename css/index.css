@@ -7,7 +7,7 @@
 }
 
 html {
-    font-size: 16px;
+    font-size: 14px;
 }
 nav {
     display: flex;
@@ -123,6 +123,9 @@ h1 {
     text-align: center;
     cursor: pointer;
     padding: 1em 2em;
+}
+.nav-img{
+    width: 200px;
 }
 .right-section {
     display: flex;
