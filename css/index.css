@@ -7,7 +7,7 @@
 }
 
 html {
-    font-size: 14px;
+    font-size: 12px;
 }
 nav {
     display: flex;
@@ -64,6 +64,7 @@ nav>img {
     gap: 2em;
     padding-top: 2em;
     padding-left: 2em;
+    height: 80vh;
 }
 .title {
     display: flex;
@@ -133,6 +134,7 @@ h1 {
     width: 50%;
     gap: 2em;
     align-items: center;
+    height: 80vh;
 }
 .headphone-div {
     background: url("../images/headphones.jpg") no-repeat;
